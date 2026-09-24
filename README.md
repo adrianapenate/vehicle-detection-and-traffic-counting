@@ -61,12 +61,14 @@ Place the corresponding traffic video files in the same directory as the noteboo
 
 ## 📄 Documentation
 
-`Memoria.pdf` contains the project documentation, including the initial approach, identified limitations, improved solution, workflow, results, and conclusions. fileciteturn1file0L10-L16
+`Memoria.pdf` contains the project documentation, including the initial approach, identified limitations, improved solution, workflow, results, and conclusions.
 
 ## 🎯 Objective
 
-The project demonstrates how image processing techniques can be combined to build a practical vehicle detection and counting system for traffic videos. fileciteturn1file0L96-L100
+The project demonstrates how image processing techniques can be combined to build a practical vehicle detection and counting system for traffic videos. 
 
 ## 👤 Authors
 
 Adriana Peñate Sosa → [@adrianapenate](https://github.com/adrianapenate)
+Sofía Travieso García → [@sofiatravieso](https://github.com/sofiatravieso)
+
