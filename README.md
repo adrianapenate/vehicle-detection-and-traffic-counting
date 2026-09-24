@@ -70,5 +70,6 @@ The project demonstrates how image processing techniques can be combined to buil
 ## 👤 Authors
 
 Adriana Peñate Sosa → [@adrianapenate](https://github.com/adrianapenate)
+
 Sofía Travieso García → [@sofiatravieso](https://github.com/sofiatravieso)
 
