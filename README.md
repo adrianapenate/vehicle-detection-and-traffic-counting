@@ -66,3 +66,7 @@ Place the corresponding traffic video files in the same directory as the noteboo
 ## 🎯 Objective
 
 The project demonstrates how image processing techniques can be combined to build a practical vehicle detection and counting system for traffic videos. fileciteturn1file0L96-L100
+
+## 👤 Authors
+
+Adriana Peñate Sosa → [@adrianapenate](https://github.com/adrianapenate)
